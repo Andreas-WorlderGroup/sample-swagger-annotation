@@ -1,0 +1,20 @@
+{
+    "general_error" : {
+        "body": {
+            "message": "unexpecter error"
+        },
+        "status" : 500
+    },
+    "data_not_found" :{
+        "body": {
+            "message": "data not found"
+        },
+        "status" : 404
+    },
+    "bad_request" :{
+        "body": {
+            "message": "bad request"
+        },
+        "status" : 400
+    }
+}
